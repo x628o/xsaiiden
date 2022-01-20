@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xsaiiden
-- 🌱 I’m currently learning the fundementals of programming.
+- 🌱 I’m currently learning the fundementals of html.
 
 <!---
 xsaiiden/xsaiiden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
